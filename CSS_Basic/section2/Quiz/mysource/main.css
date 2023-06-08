@@ -1,0 +1,17 @@
+.green {
+  color: green;
+}
+
+* {
+  color: red;
+  font-family: monospace;
+}
+
+h1 {
+  font-family: sans-serif;
+  color: aqua;
+}
+
+* {
+  font-family: sans-serif;
+}
