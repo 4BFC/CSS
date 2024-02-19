@@ -1,0 +1,14 @@
+#text1 {
+  text-align: right;
+  border: 1px solid gray;
+}
+
+#text2 {
+  text-align: center;
+  border: 1px solid gray;
+}
+
+#text3 {
+  text-align: left;
+  border: 1px solid gray;
+}

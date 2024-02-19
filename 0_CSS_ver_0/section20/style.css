@@ -1,0 +1,14 @@
+html {
+  border: 1px solid red;
+  color: tomato;
+}
+
+ul {
+  /* border: 1px solid gray; */
+  /* color: gray; */
+}
+
+#select {
+  /* border: 1px solid gray; */
+  color: aquamarine;
+}
