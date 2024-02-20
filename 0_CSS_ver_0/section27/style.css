@@ -1,0 +1,16 @@
+* {
+  box-sizing: border-box;
+}
+
+div {
+  margin: 10px;
+  width: 150px;
+}
+
+#small {
+  border: 10px solid black;
+}
+
+#large {
+  border: 30px solid black;
+}

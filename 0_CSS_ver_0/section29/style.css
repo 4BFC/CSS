@@ -1,0 +1,9 @@
+#parent {
+  border: 1px solid tomato;
+  margin-top: 100px;
+}
+
+#child {
+  background-color: powderblue;
+  margin-top: 50px;
+}
